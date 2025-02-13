@@ -16,7 +16,7 @@
     "@type": "Organization",
     "name": "<?= $site_name; ?>",
     "url": "<?= $site_url; ?>",
-    "logo": "<?= $site_url; ?>/assets/img/logo/nuansaserpong.png",
+    "logo": "<?= $site_url; ?>/assets/img/logo/logo.png",
     "contactPoint": [
 
       {

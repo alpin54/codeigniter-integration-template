@@ -83,7 +83,7 @@ CREATE TABLE `tb_users` (
 --
 
 INSERT INTO `tb_users` (`user_id`, `photo`, `first_name`, `mid_name`, `last_name`, `username`, `password`, `role`, `status`, `created_by`, `created_date`, `updated_by`, `updated_date`) VALUES
-(1, '1.jpg', 'Nuansa', 'Serpong', 'Administrator', 'admin', '$2y$10$.RGge/OG2tFB98WIcFOXv.V10.xWa5ReCVGc24Vn/v8hC63nmw1pG', 1, '1', 1, '2021-10-13 22:37:57', 1, '2024-11-13 08:23:05');
+(1, '1.jpg', 'tes', 'tes', 'Administrator', 'admin', '$2y$10$.RGge/OG2tFB98WIcFOXv.V10.xWa5ReCVGc24Vn/v8hC63nmw1pG', 1, '1', 1, '2021-10-13 22:37:57', 1, '2024-11-13 08:23:05');
 
 -- --------------------------------------------------------
 
